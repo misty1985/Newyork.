@@ -1,2 +1,2 @@
-# Newyork.
+# Newyork
 nytimesearch
